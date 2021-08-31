@@ -1,5 +1,5 @@
-<!-- ### Hi there 👋-->
-![Group 1](https://user-images.githubusercontent.com/65854432/131520486-366adfae-73c4-4df1-994c-fcf9f0b9548c.png)
+
+![Group 2 (2)](https://user-images.githubusercontent.com/65854432/131540963-8904a8c3-e1f0-46c7-8cb4-ee083f66d7b6.png)
 
 <!--
 **Xfinity-bot/Xfinity-bot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
