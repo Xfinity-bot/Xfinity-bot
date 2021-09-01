@@ -18,9 +18,9 @@
 <div align="center">
   <a  href="https://xfinity.ml" target="_blank"><img width="45px" align="center" src="https://user-images.githubusercontent.com/65854432/131600333-007b3251-57f7-4a80-b8dc-baa6d1d617fb.png"/></a>
    <a  href="mailto:sriganesh7334@gmail.com"" target="_blank"><img width="45px"  align="center" src="https://user-images.githubusercontent.com/65854432/131600343-386965ee-b2a3-47db-9a4e-2bf5275aa40a.png"/></a>
-  <img width="45px"  align="center" src="https://user-images.githubusercontent.com/65854432/131601094-ad3f1f1a-95b2-49ee-9adc-b6c5e283bd29.png"/>
-  <img width="45px"  align="center" src="https://user-images.githubusercontent.com/65854432/131601358-0c5f8d37-ae1e-4f52-9cdb-99052e10eddd.png"/>
-  <img width="45px"  align="center" src="https://user-images.githubusercontent.com/65854432/131601361-848ca98d-673b-45dc-aa20-49706f7a28c3.png"/>
+  <a  href="https://www.linkedin.com/in/sriganesh-rao-1b6a921a5/" target="_blank"><img width="45px"  align="center" src="https://user-images.githubusercontent.com/65854432/131601094-ad3f1f1a-95b2-49ee-9adc-b6c5e283bd29.png"/></a>
+  <a  href="https://open.spotify.com/user/31r6bgpfevqkpgadpy6tamqzk2o4?si=1N4Wo8iKR9ird_VZLXhK4Q&utm_source=copy-link&dl_branch=1" target="_blank"><img width="45px"  align="center" src="https://user-images.githubusercontent.com/65854432/131601358-0c5f8d37-ae1e-4f52-9cdb-99052e10eddd.png"/></a>
+  <a  href="https://steamcommunity.com/id/OGReality_Xfinity/" target="_blank"><img width="45px"  align="center" src="https://user-images.githubusercontent.com/65854432/131601361-848ca98d-673b-45dc-aa20-49706f7a28c3.png"/></a>
 </div>
 <br><br>
 <h2 align="center"> My Stack 💻❤️  </h2>
