@@ -15,6 +15,8 @@
   <br>
 
 <h2 align="center"> Connect With Me 👊 </h2>
+  <h4 align="center">Email ID : sriganesh7334@gmail.com</h4>
+  <br>
   <div align="center">
     <a  href="https://xfinity.ml" target="_blank"><img width="45px" align="center" src="https://user-images.githubusercontent.com/65854432/131600333-007b3251-57f7-4a80-b8dc-baa6d1d617fb.png"/></a>
     <a  href="mailto:sriganesh7334@gmail.com"" target="_blank"><img width="45px"  align="center" src="https://user-images.githubusercontent.com/65854432/131600343-386965ee-b2a3-47db-9a4e-2bf5275aa40a.png"/></a>
