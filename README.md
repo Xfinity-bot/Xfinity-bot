@@ -2,7 +2,14 @@
 ![Group 2 (2)](https://user-images.githubusercontent.com/65854432/131540963-8904a8c3-e1f0-46c7-8cb4-ee083f66d7b6.png)
 
 <h1 align="center"> Hello There 👋 </h1>
+
+  <img width="300px" align="right" src="https://user-images.githubusercontent.com/65854432/131634214-91274d8f-4f2f-4a91-bee8-276f5c3069eb.gif"/>
+
+<p align="left">I am Sriganesh and I am Developer👨‍💻. I'm currently pursuing my B.E in CS. Always ready to learn new frameworks and tools ;) . </p>
+  
+    
 <br><br>
+
 <h2 align="center"> Connect With Me 👊 </h2>
 <div align="center">
   <img width="45px" align="center" src="https://user-images.githubusercontent.com/65854432/131600333-007b3251-57f7-4a80-b8dc-baa6d1d617fb.png"/>
@@ -20,11 +27,10 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
+- 🔭 I’m currently working on final year project
+- 🌱 I’m currently learning ML
+
+- 💬 Ask me about 
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
