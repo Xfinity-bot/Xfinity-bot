@@ -11,7 +11,7 @@
  <p align="left">⚡️ I’m currently working on final year project.</P>
  <p align="left">⚡️  In :heart: with CSGO.</p>
 
- 🌎 Programming | 🔥 Gamming | 💥 Anime   
+ 🌎 Programming | 🔥 Gaming | 💥 Anime   
 <br><br>
 
 <h2 align="center"> Connect With Me 👊 </h2>
