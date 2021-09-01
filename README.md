@@ -4,9 +4,12 @@
 <h1 align="center"> Hello There 👋 </h1>
 
   <img width="300px" align="right" src="https://user-images.githubusercontent.com/65854432/131634214-91274d8f-4f2f-4a91-bee8-276f5c3069eb.gif"/>
+:heart: Programming | 🔥 Gamming | 💥 Anime
+<br><br>
+ <p align="left">I am a Full-Stack developer with a passion for developing of all types, and sizes. 👨‍💻. Always ready to learn new frameworks and tools ;) . </p>
+ <p align="left">⚡️  I'm currently pursuing my B.E in CS.</p>
+ <p align="left">⚡️ I’m currently working on final year project.</P>
 
-<p align="left">I am Sriganesh and I am Developer👨‍💻. I'm currently pursuing my B.E in CS. Always ready to learn new frameworks and tools ;) . </p>
-  
     
 <br><br>
 
