@@ -1,7 +1,6 @@
 
 ![Group 2 (2)](https://user-images.githubusercontent.com/65854432/131540963-8904a8c3-e1f0-46c7-8cb4-ee083f66d7b6.png)
-![animation_200_kt0w2usl](https://user-images.githubusercontent.com/65854432/131603017-fd0c5674-c931-413f-8117-5eea91aead87.gif)
-![animation_200_kt0zz2zh](https://user-images.githubusercontent.com/65854432/131611855-1c692567-39e3-4fed-ac8d-eaa03f02a97e.gif)
+![Frame 1 (1) 1 (1)](https://user-images.githubusercontent.com/65854432/131617794-32eb8daa-402d-4757-a3da-3ec3d0e4af6e.png)
 
 
 <h1 align="center"> Hello There 👋 </h1>
