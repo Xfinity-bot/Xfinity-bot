@@ -6,10 +6,9 @@
 
   <br>
   <br>
-  <p align="left">I am a Full-Stack developer with a passion for developing of all types, and sizes. 👨‍💻. Always ready to learn new frameworks and tools ;) . </p>
-  <p align="left">⚡️  I'm currently pursuing my MTech in Software Engineering.</p>
-  <p align="left">⚡️ I’m currently working on final year project.</P>
-  <p align="left">⚡️  In :heart: with CSGO.</p>
+  <p align="left">I am a Full-Stack developer passionate about developing of all types, and sizes. 👨‍💻. Always ready to learn new frameworks and tools ;) . </p>
+  <p align="left">⚡️  I'm currently a Full Stack Developer.</p>
+  <p align="left">⚡️  In :heart: with CS2.</p>
   <p align="left"🌎 Programming | 🔥 Gaming | 💥 Anime  </p> 
   <br>
   <br>
